@@ -13,10 +13,7 @@
    [Projects](#projects) | [Education](#education) | [Experience & Skills](#experience) | [Interests](#interests) | [GitHub Stats](#github-stats)
 </div>                                                                                                                                                                                                                                                                           
 
-<h1 align="center">Hi! Welcome to My GitHub CV. I'm Cris:</h1>                                                                                                                         
-
-
-# Hi, I'm Cristian
+<h1 align="center">Hi! Welcome to My GitHub CV. I'm Cristian:</h1>                                                                                                                         
 
 I build full-stack products with a strong bias toward ownership, clarity, and shipping.
 
