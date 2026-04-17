@@ -16,11 +16,26 @@
 <h1 align="center">Hi! Welcome to My GitHub CV. I'm Cris:</h1>                                                                                                                         
 
 
-An [experienced professional](#experience) looking for my first role in software development having successfully completed a highly selective Software Development bootcamp with [Makers Academy](https://makers.tech/).
+# Hi, I'm Cristian
 
-Software engineering combines my passion for using logic to solve complex problems and my love for innovation. Technology has always been an interest due to its constantly changing nature which gives opportunities for continuous learning and development.
+I build full-stack products with a strong bias toward ownership, clarity, and shipping.
 
-Looking forward to combining both technical and non-technical aspects of my experience in order to deliver new and exciting products within a motivated and goal-driven team.
+My current work focuses on TypeScript-based web applications using Next.js, React, Express, and Supabase. I’ve been building a production-style educational platform as a solo engineer, working across frontend, backend, testing, architecture, deployment, and product decisions.
+
+I use AI heavily as a development tool, but I still own the architecture, implementation, debugging, refactoring, and quality of the system.
+
+## Current Focus
+
+- Full-stack TypeScript product development
+- Educational software and teacher workflows
+- React / Next.js frontend architecture
+- Backend workflows, testing, and maintainability
+
+## Selected Work
+
+- Portfolio: [crischportfolio.netlify.app](https://crischportfolio.netlify.app)
+- LinkedIn: [linkedin.com/in/crismch](https://www.linkedin.com/in/crismch/)
+
 
 </center>
 
